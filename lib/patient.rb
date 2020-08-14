@@ -28,6 +28,3 @@ class patient
     end
   end
 end
-    
-    
-    
